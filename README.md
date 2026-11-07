@@ -70,9 +70,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## PROGRAM
 
-### Name: Bharath D
+### Name: AHAMADH SULAIMAN M
 
-### Register Number: 212224240025
+### Register Number:212224230009
 
 ```python
 import torch

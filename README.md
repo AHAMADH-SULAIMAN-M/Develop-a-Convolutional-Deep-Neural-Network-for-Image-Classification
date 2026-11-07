@@ -229,8 +229,6 @@ with torch.no_grad():
 <img width="600" height="672" alt="Screenshot 2026-08-12 171315" src="https://github.com/user-attachments/assets/d0e105e0-05d5-4758-b058-c18a413b05a1" />
 
 
-<img width="482" height="510" alt="Screenshot 2026-08-12 171320" src="https://github.com/user-attachments/assets/f86611ec-a9be-4811-8714-f126b54727b8" />
-
 
 ## RESULT
 Thus, To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed and verified successfully.
